@@ -81,4 +81,4 @@
 
             return implode('-', str_split($code, 4));
         }
-    };
+    }; 
